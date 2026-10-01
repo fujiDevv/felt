@@ -1,0 +1,282 @@
+{
+  "paper-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one tiny inward squeeze and contraction, a slightly rising texture, immediate onset, short decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one tiny outward opening and expansion, slightly lower and broader texture, immediate onset, short decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one very quiet delicate release tail, soft settling texture, immediate onset, no impact. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.16,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one tiny distinct tactile rotational detent click, immediate attack and quick damped decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.2,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one short sideways sliding flick, airy slide with a clean soft stop, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.36,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one deeper tactile press and release, a low rounded clunk with small detailed click, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.28,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: fine dry Japanese paper, close-miked delicate paper fiber rustle, crisp but soft. Action: one gentle broad lateral swish, soft flowing whoosh opening and closing cleanly, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "7",
+    "request_id": null,
+    "generated_duration": 0.7,
+    "mastered_duration": 0.64,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one tiny inward squeeze and contraction, a slightly rising texture, immediate onset, short decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one tiny outward opening and expansion, slightly lower and broader texture, immediate onset, short decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one very quiet delicate release tail, soft settling texture, immediate onset, no impact. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.16,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one tiny distinct tactile rotational detent click, immediate attack and quick damped decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.2,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one short sideways sliding flick, airy slide with a clean soft stop, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.36,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one deeper tactile press and release, a low rounded clunk with small detailed click, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.28,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: brushed cotton and soft felt fabric, close-miked warm velvety texture, smooth and hushed. Action: one gentle broad lateral swish, soft flowing whoosh opening and closing cleanly, immediate onset. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "7",
+    "request_id": null,
+    "generated_duration": 0.7,
+    "mastered_duration": 0.64,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Premium subtle macOS gesture UI sound. Material: a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. Action: one tiny inward squeeze and contraction, a slightly rising texture, immediate onset, short decay. Single isolated one-shot, intimate studio foley, dry, no reverb, no speech, no music, no ambience, no repeated actions. Useful sound occurs at the very beginning and settles to silence.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one tiny outward opening and expansion, slightly lower and broader texture, immediate onset, short decay. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one very quiet delicate release tail, soft settling texture, immediate onset, no impact. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.16,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one tiny distinct tactile rotational detent click, immediate attack and quick damped decay. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.2,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one short sideways sliding flick, airy slide with a clean soft stop, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.36,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one deeper tactile press and release, a low rounded clunk with small detailed click, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.28,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a precision miniature mechanical device, tactile metal and damped wooden mechanisms, refined and satisfying. one gentle broad lateral swish, soft flowing whoosh opening and closing cleanly, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "7",
+    "request_id": null,
+    "generated_duration": 0.7,
+    "mastered_duration": 0.64,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one tiny inward squeeze and contraction, a slightly rising texture, immediate onset, short decay. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one audible rounded rubber pop as a small wooden toy opens, firm attack and soft hollow resonance. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one very quiet delicate release tail, soft settling texture, immediate onset, no impact. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.16,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one tiny distinct tactile rotational detent click, immediate attack and quick damped decay. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.2,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one short sideways sliding flick, airy slide with a clean soft stop, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.36,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one deeper tactile press and release, a low rounded clunk with small detailed click, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.28,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one gentle broad lateral swish, soft flowing whoosh opening and closing cleanly, immediate onset. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "7",
+    "request_id": null,
+    "generated_duration": 0.7,
+    "mastered_duration": 0.64,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "toy-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Subtle premium gesture UI foley. a small handcrafted wooden and rubber toy, warm playful rounded pops, subtle and charming. one tiny outward opening and expansion, slightly lower and broader texture, immediate onset, short decay. One isolated dry sound at the beginning, settling to silence. No speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.34,
+    "variants": "pitch ratios 1.00, 0.96, 1.04",
+    "reason": "Nearly silent source, RMS -69 dBFS; excluded from bundle"
+  }
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "file": "paper-pinchIn-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -24.7
+  },
+  {
+    "file": "paper-pinchIn-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -24.6
+  },
+  {
+    "file": "paper-pinchIn-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.4
+  },
+  {
+    "file": "paper-pinchOut-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.0
+  },
+  {
+    "file": "paper-pinchOut-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.0
+  },
+  {
+    "file": "paper-pinchOut-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.6
+  },
+  {
+    "file": "paper-pinchEnd-1.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -6.4,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "paper-pinchEnd-2.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -6.9,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "paper-pinchEnd-3.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -5.0,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "paper-rotate-1.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.1
+  },
+  {
+    "file": "paper-rotate-2.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.6
+  },
+  {
+    "file": "paper-rotate-3.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.2
+  },
+  {
+    "file": "paper-swipe-1.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.7
+  },
+  {
+    "file": "paper-swipe-2.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.5
+  },
+  {
+    "file": "paper-swipe-3.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.8
+  },
+  {
+    "file": "paper-forceClick-1.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.0
+  },
+  {
+    "file": "paper-forceClick-2.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.3
+  },
+  {
+    "file": "paper-forceClick-3.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.6
+  },
+  {
+    "file": "paper-spaceSwitch-1.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "paper-spaceSwitch-2.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.4
+  },
+  {
+    "file": "paper-spaceSwitch-3.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.6
+  },
+  {
+    "file": "cloth-pinchIn-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -5.9,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchIn-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -6.2,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchIn-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -6.5,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchOut-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.6,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchOut-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -5.0,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchOut-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.8,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-pinchEnd-1.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -11.4,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "cloth-pinchEnd-2.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -12.0,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "cloth-pinchEnd-3.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -8.5,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "cloth-rotate-1.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -4.3,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-rotate-2.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.8,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-rotate-3.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.6,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-swipe-1.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -4.6,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-swipe-2.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -5.2,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-swipe-3.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -5.0,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-forceClick-1.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.6
+  },
+  {
+    "file": "cloth-forceClick-2.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.5
+  },
+  {
+    "file": "cloth-forceClick-3.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.7
+  },
+  {
+    "file": "cloth-spaceSwitch-1.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -6.6,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-spaceSwitch-2.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -6.9,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "cloth-spaceSwitch-3.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -6.5,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "machine-pinchIn-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.1
+  },
+  {
+    "file": "machine-pinchIn-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -20.2
+  },
+  {
+    "file": "machine-pinchIn-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.6
+  },
+  {
+    "file": "machine-pinchOut-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.9
+  },
+  {
+    "file": "machine-pinchOut-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -28.4
+  },
+  {
+    "file": "machine-pinchOut-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -28.7
+  },
+  {
+    "file": "machine-pinchEnd-1.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -6.2,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "machine-pinchEnd-2.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -6.9,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "machine-pinchEnd-3.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -7.3,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "machine-rotate-1.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -23.1
+  },
+  {
+    "file": "machine-rotate-2.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -23.3
+  },
+  {
+    "file": "machine-rotate-3.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -23.6
+  },
+  {
+    "file": "machine-swipe-1.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -22.4
+  },
+  {
+    "file": "machine-swipe-2.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -22.9
+  },
+  {
+    "file": "machine-swipe-3.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -23.6
+  },
+  {
+    "file": "machine-forceClick-1.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.4
+  },
+  {
+    "file": "machine-forceClick-2.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -23.8
+  },
+  {
+    "file": "machine-forceClick-3.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.9
+  },
+  {
+    "file": "machine-spaceSwitch-1.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -29.6
+  },
+  {
+    "file": "machine-spaceSwitch-2.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -28.5
+  },
+  {
+    "file": "machine-spaceSwitch-3.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -31.1
+  },
+  {
+    "file": "toy-pinchIn-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.8
+  },
+  {
+    "file": "toy-pinchIn-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.3
+  },
+  {
+    "file": "toy-pinchIn-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.4
+  },
+  {
+    "file": "toy-pinchOut-1.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -5.2,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "toy-pinchOut-2.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -5.1,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "toy-pinchOut-3.wav",
+    "seconds": 0.34,
+    "peak_dBFS": -4.4,
+    "rms_dBFS": -20.0
+  },
+  {
+    "file": "toy-pinchEnd-1.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.4
+  },
+  {
+    "file": "toy-pinchEnd-2.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.2
+  },
+  {
+    "file": "toy-pinchEnd-3.wav",
+    "seconds": 0.16,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.1
+  },
+  {
+    "file": "toy-rotate-1.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -28.1
+  },
+  {
+    "file": "toy-rotate-2.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -28.5
+  },
+  {
+    "file": "toy-rotate-3.wav",
+    "seconds": 0.2,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -27.4
+  },
+  {
+    "file": "toy-swipe-1.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.5
+  },
+  {
+    "file": "toy-swipe-2.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.2
+  },
+  {
+    "file": "toy-swipe-3.wav",
+    "seconds": 0.36,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.6
+  },
+  {
+    "file": "toy-forceClick-1.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.7
+  },
+  {
+    "file": "toy-forceClick-2.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.6
+  },
+  {
+    "file": "toy-forceClick-3.wav",
+    "seconds": 0.28,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -21.9
+  },
+  {
+    "file": "toy-spaceSwitch-1.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.0
+  },
+  {
+    "file": "toy-spaceSwitch-2.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -25.9
+  },
+  {
+    "file": "toy-spaceSwitch-3.wav",
+    "seconds": 0.64,
+    "peak_dBFS": -3.1,
+    "rms_dBFS": -26.6
+  }
+]

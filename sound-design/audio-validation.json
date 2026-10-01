@@ -1,0 +1,422 @@
+{
+  "cloth-forceClick-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1552,
+    "rms": 0.055
+  },
+  "cloth-forceClick-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1522,
+    "rms": 0.055
+  },
+  "cloth-forceClick-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1584,
+    "rms": 0.055
+  },
+  "cloth-pinchEnd-1.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0907,
+    "rms": 0.025
+  },
+  "cloth-pinchEnd-2.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0915,
+    "rms": 0.025
+  },
+  "cloth-pinchEnd-3.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0895,
+    "rms": 0.025
+  },
+  "cloth-pinchIn-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1589,
+    "rms": 0.055
+  },
+  "cloth-pinchIn-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1559,
+    "rms": 0.055
+  },
+  "cloth-pinchIn-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1565,
+    "rms": 0.055
+  },
+  "cloth-pinchOut-1.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.4,
+    "rms": 0.0498
+  },
+  "cloth-pinchOut-2.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.4,
+    "rms": 0.0508
+  },
+  "cloth-pinchOut-3.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.4,
+    "rms": 0.0489
+  },
+  "cloth-rotate-1.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2888,
+    "rms": 0.055
+  },
+  "cloth-rotate-2.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2839,
+    "rms": 0.055
+  },
+  "cloth-rotate-3.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2943,
+    "rms": 0.055
+  },
+  "cloth-spaceSwitch-1.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.1876,
+    "rms": 0.055
+  },
+  "cloth-spaceSwitch-2.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.184,
+    "rms": 0.055
+  },
+  "cloth-spaceSwitch-3.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.1914,
+    "rms": 0.055
+  },
+  "cloth-swipe-1.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.184,
+    "rms": 0.055
+  },
+  "cloth-swipe-2.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.1809,
+    "rms": 0.055
+  },
+  "cloth-swipe-3.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.1872,
+    "rms": 0.055
+  },
+  "machine-forceClick-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1233,
+    "rms": 0.055
+  },
+  "machine-forceClick-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1249,
+    "rms": 0.055
+  },
+  "machine-forceClick-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1197,
+    "rms": 0.055
+  },
+  "machine-pinchEnd-1.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0515,
+    "rms": 0.025
+  },
+  "machine-pinchEnd-2.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0532,
+    "rms": 0.025
+  },
+  "machine-pinchEnd-3.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0516,
+    "rms": 0.025
+  },
+  "machine-pinchIn-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1716,
+    "rms": 0.055
+  },
+  "machine-pinchIn-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.169,
+    "rms": 0.055
+  },
+  "machine-pinchIn-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1743,
+    "rms": 0.055
+  },
+  "machine-pinchOut-1.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2922,
+    "rms": 0.055
+  },
+  "machine-pinchOut-2.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2996,
+    "rms": 0.055
+  },
+  "machine-pinchOut-3.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2866,
+    "rms": 0.055
+  },
+  "machine-rotate-1.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2918,
+    "rms": 0.055
+  },
+  "machine-rotate-2.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2818,
+    "rms": 0.055
+  },
+  "machine-rotate-3.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.2949,
+    "rms": 0.055
+  },
+  "machine-spaceSwitch-1.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0496
+  },
+  "machine-spaceSwitch-2.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0509
+  },
+  "machine-spaceSwitch-3.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0484
+  },
+  "machine-swipe-1.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.3169,
+    "rms": 0.055
+  },
+  "machine-swipe-2.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.3178,
+    "rms": 0.055
+  },
+  "machine-swipe-3.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.3312,
+    "rms": 0.055
+  },
+  "paper-forceClick-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.2774,
+    "rms": 0.055
+  },
+  "paper-forceClick-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.2722,
+    "rms": 0.055
+  },
+  "paper-forceClick-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.2813,
+    "rms": 0.055
+  },
+  "paper-pinchEnd-1.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0811,
+    "rms": 0.025
+  },
+  "paper-pinchEnd-2.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0803,
+    "rms": 0.025
+  },
+  "paper-pinchEnd-3.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.0808,
+    "rms": 0.025
+  },
+  "paper-pinchIn-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.3773,
+    "rms": 0.055
+  },
+  "paper-pinchIn-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.3931,
+    "rms": 0.055
+  },
+  "paper-pinchIn-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.353,
+    "rms": 0.055
+  },
+  "paper-pinchOut-1.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2249,
+    "rms": 0.055
+  },
+  "paper-pinchOut-2.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2337,
+    "rms": 0.055
+  },
+  "paper-pinchOut-3.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.2378,
+    "rms": 0.055
+  },
+  "paper-rotate-1.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1108,
+    "rms": 0.055
+  },
+  "paper-rotate-2.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1042,
+    "rms": 0.055
+  },
+  "paper-rotate-3.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1105,
+    "rms": 0.055
+  },
+  "paper-spaceSwitch-1.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.2566,
+    "rms": 0.055
+  },
+  "paper-spaceSwitch-2.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.2696,
+    "rms": 0.055
+  },
+  "paper-spaceSwitch-3.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.2859,
+    "rms": 0.055
+  },
+  "paper-swipe-1.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.2336,
+    "rms": 0.055
+  },
+  "paper-swipe-2.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.2379,
+    "rms": 0.055
+  },
+  "paper-swipe-3.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.2382,
+    "rms": 0.055
+  },
+  "toy-forceClick-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1662,
+    "rms": 0.055
+  },
+  "toy-forceClick-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1691,
+    "rms": 0.055
+  },
+  "toy-forceClick-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1643,
+    "rms": 0.055
+  },
+  "toy-pinchEnd-1.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.1145,
+    "rms": 0.025
+  },
+  "toy-pinchEnd-2.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.1147,
+    "rms": 0.025
+  },
+  "toy-pinchEnd-3.wav": {
+    "duration_seconds": 0.06,
+    "peak": 0.1188,
+    "rms": 0.025
+  },
+  "toy-pinchIn-1.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.181,
+    "rms": 0.055
+  },
+  "toy-pinchIn-2.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1775,
+    "rms": 0.055
+  },
+  "toy-pinchIn-3.wav": {
+    "duration_seconds": 0.1,
+    "peak": 0.1854,
+    "rms": 0.055
+  },
+  "toy-pinchOut-1.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.3764,
+    "rms": 0.055
+  },
+  "toy-pinchOut-2.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.3673,
+    "rms": 0.055
+  },
+  "toy-pinchOut-3.wav": {
+    "duration_seconds": 0.12,
+    "peak": 0.3846,
+    "rms": 0.055
+  },
+  "toy-rotate-1.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1249,
+    "rms": 0.055
+  },
+  "toy-rotate-2.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1226,
+    "rms": 0.055
+  },
+  "toy-rotate-3.wav": {
+    "duration_seconds": 0.08,
+    "peak": 0.1272,
+    "rms": 0.055
+  },
+  "toy-spaceSwitch-1.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0379
+  },
+  "toy-spaceSwitch-2.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0388
+  },
+  "toy-spaceSwitch-3.wav": {
+    "duration_seconds": 0.22,
+    "peak": 0.4,
+    "rms": 0.0369
+  },
+  "toy-swipe-1.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.1927,
+    "rms": 0.055
+  },
+  "toy-swipe-2.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.1885,
+    "rms": 0.055
+  },
+  "toy-swipe-3.wav": {
+    "duration_seconds": 0.14,
+    "peak": 0.1903,
+    "rms": 0.055
+  }
+}

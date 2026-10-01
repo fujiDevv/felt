@@ -1,43 +1,45 @@
-//
-//  FeltUITests.swift
-//  FeltUITests
-//
-//  Created by Joshua Sarmiento on 10/1/26.
-//
-
 import XCTest
 
+@MainActor
 final class FeltUITests: XCTestCase {
-
-    override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
-
-        // In UI tests it is usually best to stop immediately when a failure occurs.
-        continueAfterFailure = false
-
-        // In UI tests it’s important to set the initial state - such as interface orientation - required for your tests before they run. The setUp method is a good place to do this.
-    }
-
-    override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
-    }
-
-    @MainActor
-    func testExample() throws {
-        // UI tests must launch the application that they test.
+    func testMenuAndWorldPreview() throws {
         let app = XCUIApplication()
+        app.launchArguments = ["--show-menu", "--light-appearance"]
         app.launch()
-
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        // XCUIAutomation Documentation
-        // https://developer.apple.com/documentation/xcuiautomation
+        let cloth = app.buttons["Cloth sound world"]
+        XCTAssertTrue(cloth.waitForExistence(timeout: 10), "Felt opens its menu bar popover")
+        XCTAssertTrue(app.sliders["Volume"].exists)
+        cloth.click()
+        XCTAssertTrue(app.staticTexts["Soft as a whisper."].waitForExistence(timeout: 3))
+        app.buttons["Paper sound world"].click()
+        XCTAssertTrue(app.staticTexts["Airy little touches."].waitForExistence(timeout: 3))
+        XCTAssertTrue(app.buttons["Preview sound"].exists)
+        let more = app.menuButtons["More options"]
+        if !more.isHittable { app.scrollViews.firstMatch.swipeUp() }
+        XCTAssertTrue(more.isHittable, "Footer controls are reachable inside the popover")
+        let content = app.descendants(matching: .any).matching(identifier: "Felt content").firstMatch
+        let screenshot = XCTAttachment(screenshot: content.screenshot())
+        screenshot.name = "Felt light appearance"
+        screenshot.lifetime = .keepAlways
+        add(screenshot)
+        app.radioButtons["Settings"].click()
+        XCTAssertTrue(app.descendants(matching: .any).matching(identifier: "Quiet on calls").firstMatch.isHittable)
+        XCTAssertTrue(app.staticTexts["Gestures"].exists)
+        app.terminate()
     }
 
-    @MainActor
-    func testLaunchPerformance() throws {
-        // This measures how long it takes to launch your application.
-        measure(metrics: [XCTApplicationLaunchMetric()]) {
-            XCUIApplication().launch()
-        }
+    func testDarkAppearance() throws {
+        let app = XCUIApplication()
+        app.launchArguments = ["--show-menu", "--dark-appearance"]
+        app.launch()
+        XCTAssertTrue(app.buttons["Paper sound world"].waitForExistence(timeout: 10))
+        XCTAssertTrue(app.buttons["Preview sound"].isHittable)
+        XCTAssertTrue(app.sliders["Volume"].isHittable)
+        let content = app.descendants(matching: .any).matching(identifier: "Felt content").firstMatch
+        let screenshot = XCTAttachment(screenshot: content.screenshot())
+        screenshot.name = "Felt dark appearance"
+        screenshot.lifetime = .keepAlways
+        add(screenshot)
+        app.terminate()
     }
 }

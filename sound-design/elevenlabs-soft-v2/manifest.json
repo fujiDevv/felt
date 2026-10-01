@@ -1,0 +1,282 @@
+{
+  "paper-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a tiny rising soft squeeze, one gentle pip lasting about 100 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a tiny falling rounded opening, one gentle plop lasting about 120 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.12,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a faint fluffy release, a soft little breath lasting about 60 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.06,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a miniature soft padded tick lasting about 80 milliseconds, no metallic click. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.08,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a tiny velvety airy swip lasting about 140 milliseconds, smooth and friendly. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.14,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. one soft rounded low pop lasting about 100 milliseconds, no sharp attack. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "paper-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. a tiny soft fingertip pat on smooth cotton paper, a warm airy rounded texture. a tiny soft cloud swish lasting about 220 milliseconds, airy and reassuring. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.22,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a tiny rising soft squeeze, one gentle pip lasting about 100 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a tiny falling rounded opening, one gentle plop lasting about 120 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.12,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a faint fluffy release, a soft little breath lasting about 60 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.06,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a miniature soft padded tick lasting about 80 milliseconds, no metallic click. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.08,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a tiny velvety airy swip lasting about 140 milliseconds, smooth and friendly. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.14,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. one soft rounded low pop lasting about 100 milliseconds, no sharp attack. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "cloth-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one plush felt fingertip tap, velvety soft and reassuring, muted warm low mids. a tiny soft cloud swish lasting about 220 milliseconds, airy and reassuring. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.22,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a tiny rising soft squeeze, one gentle pip lasting about 100 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a tiny falling rounded opening, one gentle plop lasting about 120 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.12,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a faint fluffy release, a soft little breath lasting about 60 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.06,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a miniature soft padded tick lasting about 80 milliseconds, no metallic click. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.08,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a tiny velvety airy swip lasting about 140 milliseconds, smooth and friendly. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.14,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. one soft rounded low pop lasting about 100 milliseconds, no sharp attack. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "machine-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one cushioned tiny ceramic touch, silky rounded soft pluck, modern and delicate. a tiny soft cloud swish lasting about 220 milliseconds, airy and reassuring. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.22,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchIn": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a tiny rising soft squeeze, one gentle pip lasting about 100 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchOut": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a tiny falling rounded opening, one gentle plop lasting about 120 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.12,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-pinchEnd": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a faint fluffy release, a soft little breath lasting about 60 milliseconds. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.06,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-rotate": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a miniature soft padded tick lasting about 80 milliseconds, no metallic click. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.08,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-swipe": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a tiny velvety airy swip lasting about 140 milliseconds, smooth and friendly. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.14,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-forceClick": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. one soft rounded low pop lasting about 100 milliseconds, no sharp attack. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.1,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  },
+  "toy-spaceSwitch": {
+    "provider": "ElevenLabs",
+    "model": "eleven_text_to_sound_v2",
+    "prompt": "Calm cute modern UI micro-sound. one tiny soft silicone bubble pop, cute rounded and gentle, like a plush toy. a tiny soft cloud swish lasting about 220 milliseconds, airy and reassuring. One audible dry cue immediately at the start. Safe, soft, warm. No retro computer beeps, bells, harsh clicks, speech, music, ambience, reverb or repeats.",
+    "character_cost": "5",
+    "request_id": null,
+    "generated_duration": 0.5,
+    "mastered_duration": 0.22,
+    "variants": "pitch ratios 1.00, 0.96, 1.04"
+  }
+}
